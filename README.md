@@ -29,7 +29,7 @@ npm install
 import swipe from './swipeUi/swipe';
 ```
 
-#### use as a regular componenent in react
+### use as a regular componenent in react native
 
 
 
