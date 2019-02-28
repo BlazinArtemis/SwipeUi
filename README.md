@@ -17,7 +17,7 @@ git clone https://https://github.com/its-samwell/SwipeUi.git
 ```
 cd SwipeUi
 ```
-#### Install all packages(dependencies) 
+#### Install all dependencies
 
 ```
 npm install
@@ -29,7 +29,7 @@ npm install
 import swipe from './swipeUi/swipe';
 ```
 
-### use as a regular componenent in react native
+### use as a  componenent in react native
 
 
 
